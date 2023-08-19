@@ -5,7 +5,7 @@ The website is developed using:
 1. HTML5
 2. CSS3
 ## Prequisites
-1. A terminal for those on Linux or MacOS and Gitbash for those on windows.
+1. A ``terminal`` for those on **Linux** or **MacOS** and ``Gitbash`` for those on **windows**.
 2. Visual Studio code or any editor where the code will be displayed.
 ## Set up
 Follow these instructions for easy accessibility of the project;
