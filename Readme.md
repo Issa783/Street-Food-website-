@@ -23,7 +23,7 @@ A selection of some of the section images
 
 ![home section](home.png)
 
-![hotdeals](hotdeals.PNG)
+![hotdeals](hotdeals.png)
 
 ![contact](contact.png)
 ## Author
